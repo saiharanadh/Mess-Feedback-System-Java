@@ -29,10 +29,13 @@ It features data persistence, CSV export, and live statistics — all wrapped in
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Mess-Feedback-System-Java.git
+   https://github.com/saiharanadh/Mess-Feedback-System-Java.git
+   
 2. **Navigate to the project folder**
    cd Mess-Feedback-System-Java/src
+   
 3.**Compile**
    javac MessFeedbackSystem.java
+   
 4.**Run**
    java MessFeedbackSystem
